@@ -5,6 +5,7 @@ namespace test;
 public class CalculadoraTest
 {
 
+    //Testes na classe Calculadora.
     public CalculadoraTest()
     {
         _cal = new Calculadora();
